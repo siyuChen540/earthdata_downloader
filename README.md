@@ -49,7 +49,7 @@
    conda create --name downloader_env python==3.12.0
    conda activate downloader_env
    ```
-3. 安装依赖
+3. **安装依赖**
 ## ⚙️ 使用方法
 ### 基本用法
 运行脚本并提供必要的参数：
@@ -66,7 +66,7 @@ python downloader.py --save-dir <保存目录> \
   <li><code>--password</code>：您的 Earthdata 密码。</li>
   <li><code>--txt-dir</code>：包含下载链接的文本文件路径。文件中每行一个 URL。</li>
 </ul>**
-### 实例
+### **实例**
 ```ruby
 https://example.com/data/file1.nc
 https://example.com/data/file2.nc
