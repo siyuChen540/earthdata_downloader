@@ -65,7 +65,8 @@ python downloader.py --save-dir <保存目录> \
   <li><code>--username</code>：您的 Earthdata 用户名。</li>
   <li><code>--password</code>：您的 Earthdata 密码。</li>
   <li><code>--txt-dir</code>：包含下载链接的文本文件路径。文件中每行一个 URL。</li>
-</ul>**
+</ul>
+
 ### 实例
 ```ruby
 https://example.com/data/file1.nc
@@ -79,8 +80,20 @@ python downloader.py --save-dir ./downloads \
                     --password mySecurePassword \
                     --txt-dir ./urls.txt
 ```
+
 ## 🔧 依赖
-🤝 贡献
+本项目依赖以下 Python 库：
+- [requests](https://pypi.org/project/requests/)
+- [pandas](https://pypi.org/project/pandas/)
+- [tqdm](https://pypi.org/project/tqdm/)
+- [logging](https://docs.python.org/3/library/logging.html)
+
+您可以通过以下命令安装所有依赖：
+```bash
+pip install -r requirements.txt
+```
+
+## 🤝 贡献
 欢迎贡献！请遵循以下步骤：
 1. Fork 本仓库
 2. 创建特性分支
@@ -99,7 +112,7 @@ git push origin feature/YourFeature
 
 确保您的代码遵循 [PEP 8](https://pep8.org/) 规范，并包含适当的测试和文档。
 
-📜 许可证
+## 📜 许可证
 此项目采用 MIT 许可证。
 
 ## 📫 联系我们
