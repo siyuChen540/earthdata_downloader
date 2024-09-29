@@ -1,8 +1,8 @@
 # 🌐 **Earthdata Downloader**
 
-![License](https://img.shields.io/github/license/SiyuChen540/earthdata-downloader)
+![License](https://img.shields.io/github/license/SiyuChen540/earthdata_downloader)
 ![Python Version](https://img.shields.io/badge/python-3.12%2B-blue)
-![Downloads](https://img.shields.io/github/downloads/SiyuChen540/earthdata-downloader/total)
+![Downloads](https://img.shields.io/github/downloads/SiyuChen540/earthdata_downloader/total)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/SiyuChen540/earthdata-downloader/ci.yml?branch=main)
 
 <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
