@@ -116,4 +116,4 @@ git push origin feature/YourFeature
 ## 📫 联系我们
 如果您有任何问题或建议，欢迎通过以下方式联系我：
 - 邮箱: chensy57@mail2.sysu.edu.cn
-- GitHub: SiyuChen540
+- GitHub: [SiyuChen540](https://github.com/SiyuChen540)
