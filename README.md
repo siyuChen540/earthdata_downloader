@@ -4,7 +4,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.12%2B-blue)
 ![Downloads](https://img.shields.io/github/downloads/SiyuChen540/earthdata_downloader/total)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/SiyuChen540/earthdata_downloader/ci.yml?branch=main)
-![earth](https://github.com/siyuChen540/earthdata_downloader/edit/main/assets/earth.svg)
+![earth](https://github.com/siyuChen540/earthdata_downloader/blob/main/assets/earth.svg)
 
 ## 📢 介绍
 
