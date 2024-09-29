@@ -93,20 +93,20 @@ pip install -r requirements.txt
 
 ## 🤝 贡献
 欢迎贡献！请遵循以下步骤：
-1. Fork 本仓库
-2. 创建特性分支
+**1. Fork 本仓库**
+**2. 创建特性分支**
 ```bash
 git checkout -b feature/YourFeature
 ```
-3. 提交更改
+**3. 提交更改**
 ```bash
 git commit -m "Add some feature"
 ```
-4. 推送到分支
+**4. 推送到分支**
 ```bash
 git push origin feature/YourFeature
 ```
-5. 创建 Pull Request
+**5. 创建 Pull Request**
 
 确保您的代码遵循 [PEP 8](https://pep8.org/) 规范，并包含适当的测试和文档。
 
