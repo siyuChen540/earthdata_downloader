@@ -1,4 +1,3 @@
-# earthdata_downloader
 # 🌐 **Earthdata Downloader**
 
 ![License](https://img.shields.io/github/license/yourusername/earthdata-downloader)
