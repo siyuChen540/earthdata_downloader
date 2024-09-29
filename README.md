@@ -1,9 +1,17 @@
 # 🌐 **Earthdata Downloader**
 
-![License](https://img.shields.io/github/license/yourusername/earthdata-downloader)
+![License](https://img.shields.io/github/license/SiyuChen540/earthdata-downloader)
 ![Python Version](https://img.shields.io/badge/python-3.12%2B-blue)
-![Downloads](https://img.shields.io/github/downloads/yourusername/earthdata-downloader/total)
-![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/earthdata-downloader/ci.yml?branch=main)
+![Downloads](https://img.shields.io/github/downloads/SiyuChen540/earthdata-downloader/total)
+![Build Status](https://img.shields.io/github/actions/workflow/status/SiyuChen540/earthdata-downloader/ci.yml?branch=main)
+
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" fill="#1E90FF" stroke="#000" stroke-width="2"/>
+  <path d="M 100 10 A 90 90 0 0 1 190 100" stroke="#fff" stroke-width="2"/>
+  <path d="M 100 10 A 90 90 0 0 0 10 100" stroke="#fff" stroke-width="2"/>
+  <path d="M 100 190 A 90 90 0 0 1 190 100" stroke="#fff" stroke-width="2"/>
+  <path d="M 100 190 A 90 90 0 0 0 10 100" stroke="#fff" stroke-width="2"/>
+</svg>
 
 ## 📢 介绍
 
