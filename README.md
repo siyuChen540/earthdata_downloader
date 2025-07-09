@@ -39,7 +39,7 @@
 1. **克隆仓库**
 
    ```bash
-   git clone https://github.com/yourusername/earthdata-downloader.git
+   git clone [https://github.com/yourusername/earthdata-downloader.git](https://github.com/siyuChen540/earthdata_downloader)
    cd earthdata-downloader
    ```
 2. **创建虚拟环境（可选但推荐）**
